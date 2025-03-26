@@ -14,5 +14,17 @@ Ultra-Enablers INC, a software development company specializing in creating appl
 - Microsoft Excel/Google Sheets for creating risk control matrices to map potential security risks, identify threats, and propose mitigation strategies.
 - Microsoft Active Directory for managing user roles and permissions within the organization's network.
 
+## Steps
+Ref 1: Project Guide
+[Project Guide - Planning Security Operations & Monitoring using Risk Control mapping.pdf](https://github.com/user-attachments/files/19474099/Project.Guide.-.Planning.Security.Operations.Monitoring.using.Risk.Control.mapping.pdf)
 
-[Capstone Final Report answer.docx](https://github.com/user-attachments/files/19474025/Capstone.Final.Report.answer.docx)
+Ref 2: Project Synopsis
+[Capstone Synopsis Answer.docx](https://github.com/user-attachments/files/19474113/Capstone.Synopsis.Answer.docx)
+
+
+Ref 3: Project Report
+[Capstone Final Report answer.docx](https://github.com/user-attachments/files/19474114/Capstone.Final.Report.answer.docx)
+
+
+
+
